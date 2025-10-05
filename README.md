@@ -40,14 +40,19 @@ Step 1
 ```bash
 git clone https://github.com/nekyb/RoftCam.git
 ```
-
 Step 2
+
+```bash
+cd RoftCam
+```
+
+Step 3
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Step 3
+Step 4
 
 Activate the server on your computer
 
@@ -55,7 +60,7 @@ Activate the server on your computer
 python server.py
 ```
 
-Step 4
+Step 5
 
 Activate client.py on the other computer
 
@@ -63,7 +68,7 @@ Activate client.py on the other computer
 python client.py
 ```
 
-Step 5
+Step 6
 
 Enter the IP in the client that appears on the server.
 
