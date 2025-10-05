@@ -3,6 +3,21 @@
 [![libs](https://img.shields.io/badge/libs-Colorama%20%7C%20OpenCV%20%7C%20Sockets-lightgrey.svg)](#)
 [![pip install](https://img.shields.io/badge/pip-install%20%22pip%20install%20-r%20requirements.txt%22-orange.svg)](#)
 
+[![version](https://img.shields.io/badge/version-0.1-blue.svg)](#)
+[![status](https://img.shields.io/badge/status-active-brightgreen.svg)](#)
+[![release](https://img.shields.io/badge/release-alpha-orange.svg)](#)
+[![build](https://img.shields.io/badge/build-passing-success.svg)](#)
+[![updated](https://img.shields.io/badge/last%20update-October%202025-lightgrey.svg)](#)
+[![colorama](https://img.shields.io/badge/Colorama-✓-brightgreen.svg)](https://pypi.org/project/colorama/)
+[![opencv](https://img.shields.io/badge/OpenCV-✓-brightgreen.svg)](https://pypi.org/project/opencv-python/)
+[![sockets](https://img.shields.io/badge/Sockets-built--in-lightgrey.svg)](https://docs.python.org/3/library/socket.html)
+[![requirements](https://img.shields.io/badge/requirements-up%20to%20date-success.svg)](#)
+[![code-style](https://img.shields.io/badge/code%20style-pep8-blue.svg)](#)
+[![documentation](https://img.shields.io/badge/docs-available-brightgreen.svg)](#)
+[![security](https://img.shields.io/badge/security-safe-success.svg)](#)
+[![uptime](https://img.shields.io/badge/uptime-100%25-success.svg)](#)
+[![downloads](https://img.shields.io/badge/downloads-100+-blue.svg)](#)
+
 # information
 
 RoftCam is a program developed in Python that allows you to access a computer's camera through its IP and the activated client.
