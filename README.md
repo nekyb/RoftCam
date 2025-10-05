@@ -1,8 +1,9 @@
+![Banner](https://qu.ax/gJPSe.png)
+
 [![version](https://img.shields.io/badge/version-0.1-blue.svg)](#)
 [![language](https://img.shields.io/badge/language-Python-3776AB.svg)](#)
 [![libs](https://img.shields.io/badge/libs-Colorama%20%7C%20OpenCV%20%7C%20Sockets-lightgrey.svg)](#)
 [![pip install](https://img.shields.io/badge/pip-install%20%22pip%20install%20-r%20requirements.txt%22-orange.svg)](#)
-
 [![version](https://img.shields.io/badge/version-0.1-blue.svg)](#)
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg)](#)
 [![release](https://img.shields.io/badge/release-alpha-orange.svg)](#)
